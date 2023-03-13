@@ -8,6 +8,8 @@
 
 - Fixed issue where passing `children` in the Entity constructor options will override children. [#11101](https://github.com/CesiumGS/cesium/issues/11101)
 
+- Fixed issue some 3dtiles display is not normal. [#11115](https://github.com/CesiumGS/cesium/issues/11115)
+
 #### @cesium/widgets
 
 ##### Fixes :wrench:
